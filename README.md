@@ -6,5 +6,5 @@ I'm Shaun Patrick. A Web Developer, Consultant, Author and and Open Source Enthu
   </samp>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=d-koppenhagen&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doBestMan&show_icons=true&theme=radical
 </p>
