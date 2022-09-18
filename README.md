@@ -1,6 +1,7 @@
-<p align="center">
-  <a href="https://github.com/doBestMan"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I'm Shaun Patrick, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>California, United States</b>. </p>
 <!-- <h6 align="center">Skype: <a href="https://join.skype.com/invite/ynWwV3X0f4bU" target="__blank">live:.cid.845197c69ef3598f</a> <<====>> Discord: HighBuilder#6882</h6> -->
   
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=H-Builder.H-Builder" /> -->
