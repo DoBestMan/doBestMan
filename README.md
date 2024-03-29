@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/MagicTri"><img src="https://api.daily.dev/devcards/1f13543dc2e7412f91f399ad6383f7d4.png?r=liq" width="400" alt="Buddy's Dev Card"/></a>
+<a href="https://app.daily.dev/dobestman"><img src="https://api.daily.dev/devcards/v2/yxzQedibbxOaPZ126yrpJ.png?type=default&r=tdv" width="356" alt="Buddy's Dev Card"/></a>
